@@ -10,8 +10,11 @@ The example code is in Python (version 2.7 or higher will work).
 
 # Dependencies
 .import cv2
+
 .import pandas, numpy
+
 .import keras
+
 .import sklearn
 
 # Description
