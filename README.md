@@ -9,10 +9,10 @@ This can be used in mobile devices, scanners to detect ages, can be a fun app.
 The example code is in Python (version 2.7 or higher will work).
 
 # Dependencies
-import cv2
-import pandas, numpy
-import keras
-import sklearn
+.import cv2
+.import pandas, numpy
+.import keras
+.import sklearn
 
 # Description
 A computer vision system that can automatically detect age categories in an image, that is trained on 19k+ images.
