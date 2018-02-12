@@ -1,6 +1,6 @@
 # Age-Detection-of-Indian-Actors
 
-This code can detect your eyes and alert when the user is drowsy.
+This code can detect age categories (YOUNG, MIDDLE, OLD) for a given image
 
 # Applications
 This can be used in mobile devices, scanners to detect ages, can be a fun app.
@@ -33,8 +33,9 @@ Accuracy = 78.1%
 
 # Further Improvements
 1. Changing the architecture and hyper parameters to finetune the training would improve accuracies.
-2. Images can be denoised and then can be given to training. like,
-# <img src="denoise_images01.png">
+2. Images can be denoised and then can be given to training. like, Concolutional AutoEncoders
 
+<img src="denoise_images01.png">
 Paper: https://arxiv.org/pdf/1606.08921.pdf
-3. 
+
+3. Adding further preprocessing techniques/filters can improve the quality of training.
